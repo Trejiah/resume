@@ -48,7 +48,7 @@ Riverpod, Provider
 **Architecture**  
 MVVM, Clean Architecture, Dependency Injection  
 
-**APIs & Integrations**
+**APIs & Integrations**  
 REST APIs, third-party services, AI APIs (LLM-based content generation)
 
 **Testing**  
