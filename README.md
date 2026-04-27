@@ -34,6 +34,9 @@ Generates humorous and creative excuses with feedback system and Firebase integr
 ### Business Mindset (Entrepreneurs Quotes)
 Motivational app with widgets, notifications, and personalized quote delivery  
 
+### AI Pray (AI Christian Prayer)
+AI-powered application for generating personalized Christian prayers.  
+
 ---
 
 ## 🛠 Tech Stack
