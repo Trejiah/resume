@@ -13,7 +13,7 @@ Remote • French citizen based in Mauritius (UTC+4)
 
 Self-taught Flutter developer with 3+ years of experience in mobile app development, clean architecture, and Firebase integration.
 
-Originally trained as an engineer and sports educator, with 25+ years working with children. This background strongly influences my approach to UX, engagement, and intuitive app design.
+Initially trained as an engineer and sports educator, I worked for over 25 years with children in the fields of sports and recreational activities. Alongside hands-on coaching, I also held roles as a departmental manager and trainer, before transitioning into mobile development. This experience strongly shapes the way I design intuitive, engaging, and user-centered applications.
 
 I have published multiple apps and focus on building scalable, user-centered mobile products.
 
