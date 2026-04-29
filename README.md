@@ -36,6 +36,7 @@ Motivational app with widgets, notifications, and personalized quote delivery
 
 ### AI Pray (AI Christian Prayer)
 AI-powered application for generating personalized Christian prayers.  
+https://apps.apple.com/us/app/ai-pray-daily-prayer/id6760322751  
 
 ---
 
