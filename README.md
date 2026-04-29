@@ -52,7 +52,10 @@ Riverpod, Provider
 MVVM, Clean Architecture, Dependency Injection  
 
 **APIs & Integrations**  
-REST APIs, third-party services, AI APIs (LLM-based content generation)
+REST APIs, third-party services, AI APIs (LLM-based content generation)  
+
+**AI-assisted development**  
+Use of tools such as Cursor to accelerate development, enable rapid prototyping, and solve complex problems
 
 **Testing**  
 Unit, Widget, Integration tests  
