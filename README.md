@@ -24,15 +24,22 @@ I have published multiple apps and focus on building scalable, user-centered mob
 ### YouTale Kids – EdTech
 Interactive audiobook app for children (6–12) with branching storylines and multilingual narration.  
 → Focus: engagement, imagination, decision-making  
+https://play.google.com/store/apps/details?id=com.bakemono.youtalekids3  
+
 
 ### BreakFit – Mobile Game
 Classic brick breaker with bosses, custom levels, and motion-based mechanics  
+https://play.google.com/store/apps/details?id=com.bakemono.breakfit2  
+
 
 ### ExcuseMe – Creative Utility App
 Generates humorous and creative excuses with feedback system and Firebase integration  
+https://play.google.com/store/apps/details?id=com.bakemono.excuseme  
 
-### Business Mindset (Entrepreneurs Quotes)
+### Entrepreneurs Quotes Widget (Entrepreneurs Quotes)
 Motivational app with widgets, notifications, and personalized quote delivery  
+https://apps.apple.com/us/app/entrepreneurs-quotes-widget/id6754601387  
+
 
 ### AI Pray (AI Christian Prayer)
 AI-powered application for generating personalized Christian prayers.  
