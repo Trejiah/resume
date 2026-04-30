@@ -5,8 +5,7 @@ Remote • French citizen based in Mauritius (UTC+4)
 
 📧 sylvain.germaine24@gmail.com  
 📱 WhatsApp available  
-💻 GitHub: Private repositories  
-
+💻 WebSite: https://www.sylvaingermaine.com
 ---
 
 ## 🧠 Professional Summary
